@@ -1,0 +1,1210 @@
+﻿Log file open, 11/19/18 12:41:37
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: ObstacleRunner
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.294939
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +2:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  1.523s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4541578
+LogInit: Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz, GPU: Intel(R) HD Graphics 530
+LogInit: Compiled (64-bit): Nov  6 2018 02:04:24
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line:  -EpicPortal -epicusername=DraghiciStefan -epicuserid=843b03aff42d4d868ee45c9158a20d68 -epiclocale=en-GB
+LogInit: Base Directory: D:/UnrealEngine/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2018.11.19-10.41.38:478][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2018.11.19-10.41.38:478][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2018.11.19-10.41.38:478][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Saved/Config/Windows/Engine.ini]
+[2018.11.19-10.41.38:478][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2018.11.19-10.41.38:478][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Saved/Config/Windows/Engine.ini]
+[2018.11.19-10.41.38:478][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Saved/Config/Windows/Engine.ini]
+[2018.11.19-10.41.38:478][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2018.11.19-10.41.38:478][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2018.11.19-10.41.38:478][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2018.11.19-10.41.38:478][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2018.11.19-10.41.38:478][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2018.11.19-10.41.38:478][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2018.11.19-10.41.38:478][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2018.11.19-10.41.38:479][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2018.11.19-10.41.38:479][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2018.11.19-10.41.38:479][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2018.11.19-10.41.38:479][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2018.11.19-10.41.38:479][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2018.11.19-10.41.38:479][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2018.11.19-10.41.38:479][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Saved/Config/Windows/Engine.ini]
+[2018.11.19-10.41.38:479][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2018.11.19-10.41.38:479][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2018.11.19-10.41.38:479][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2018.11.19-10.41.38:479][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2018.11.19-10.41.38:479][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2018.11.19-10.41.38:479][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2018.11.19-10.41.38:479][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2018.11.19-10.41.38:479][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2018.11.19-10.41.38:479][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2018.11.19-10.41.38:479][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2018.11.19-10.41.38:479][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2018.11.19-10.41.38:479][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2018.11.19-10.41.38:479][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2018.11.19-10.41.38:479][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2018.11.19-10.41.38:479][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Saved/Config/Windows/Engine.ini]
+[2018.11.19-10.41.38:479][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Saved/Config/Windows/Engine.ini]
+[2018.11.19-10.41.38:481][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Saved/Config/Windows/Scalability.ini]
+[2018.11.19-10.41.38:481][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2018.11.19-10.41.38:481][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2018.11.19-10.41.38:481][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Saved/Config/Windows/Scalability.ini]
+[2018.11.19-10.41.38:481][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2018.11.19-10.41.38:481][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Saved/Config/Windows/Scalability.ini]
+[2018.11.19-10.41.38:481][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2018.11.19-10.41.38:481][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2018.11.19-10.41.38:481][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2018.11.19-10.41.38:481][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2018.11.19-10.41.38:481][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2018.11.19-10.41.38:481][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2018.11.19-10.41.38:481][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2018.11.19-10.41.38:481][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2018.11.19-10.41.38:481][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2018.11.19-10.41.38:481][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2018.11.19-10.41.38:481][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2018.11.19-10.41.38:481][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2018.11.19-10.41.38:481][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2018.11.19-10.41.38:481][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2018.11.19-10.41.38:481][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2018.11.19-10.41.38:481][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2018.11.19-10.41.38:481][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2018.11.19-10.41.38:481][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2018.11.19-10.41.38:481][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Saved/Config/Windows/Scalability.ini]
+[2018.11.19-10.41.38:481][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2018.11.19-10.41.38:481][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2018.11.19-10.41.38:481][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2018.11.19-10.41.38:481][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2018.11.19-10.41.38:482][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2018.11.19-10.41.38:482][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2018.11.19-10.41.38:482][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2018.11.19-10.41.38:482][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2018.11.19-10.41.38:482][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2018.11.19-10.41.38:482][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2018.11.19-10.41.38:482][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2018.11.19-10.41.38:482][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2018.11.19-10.41.38:482][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2018.11.19-10.41.38:482][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2018.11.19-10.41.38:482][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2018.11.19-10.41.38:482][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2018.11.19-10.41.38:482][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2018.11.19-10.41.38:482][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2018.11.19-10.41.38:482][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2018.11.19-10.41.38:482][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2018.11.19-10.41.38:482][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2018.11.19-10.41.38:482][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2018.11.19-10.41.38:482][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2018.11.19-10.41.38:482][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2018.11.19-10.41.38:482][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2018.11.19-10.41.38:482][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2018.11.19-10.41.38:482][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2018.11.19-10.41.38:482][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2018.11.19-10.41.38:482][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2018.11.19-10.41.38:482][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2018.11.19-10.41.38:482][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Saved/Config/Windows/Scalability.ini]
+[2018.11.19-10.41.38:482][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2018.11.19-10.41.38:482][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2018.11.19-10.41.38:482][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2018.11.19-10.41.38:482][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2018.11.19-10.41.38:482][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2018.11.19-10.41.38:482][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2018.11.19-10.41.38:482][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2018.11.19-10.41.38:482][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2018.11.19-10.41.38:482][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Saved/Config/Windows/Scalability.ini]
+[2018.11.19-10.41.38:482][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2018.11.19-10.41.38:482][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2018.11.19-10.41.38:482][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2018.11.19-10.41.38:482][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2018.11.19-10.41.38:482][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2018.11.19-10.41.38:482][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2018.11.19-10.41.38:482][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2018.11.19-10.41.38:482][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2018.11.19-10.41.38:482][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2018.11.19-10.41.38:482][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2018.11.19-10.41.38:482][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2018.11.19-10.41.38:483][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2018.11.19-10.41.38:483][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2018.11.19-10.41.38:483][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Saved/Config/Windows/Scalability.ini]
+[2018.11.19-10.41.38:483][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2018.11.19-10.41.38:483][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2018.11.19-10.41.38:483][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.19-10.41.38:483][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.11.19-10.41.38:553][  0]LogHAL: Display: Platform has ~ 8 GB [8474460160 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.11.19-10.41.38:553][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2018.11.19-10.41.38:553][  0]LogInit: Going up to parent DeviceProfile []
+[2018.11.19-10.41.38:553][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Saved/Config/Windows/Scalability.ini]
+[2018.11.19-10.41.38:553][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2018.11.19-10.41.38:553][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2018.11.19-10.41.38:553][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Saved/Config/Windows/Scalability.ini]
+[2018.11.19-10.41.38:553][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2018.11.19-10.41.38:553][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Saved/Config/Windows/Scalability.ini]
+[2018.11.19-10.41.38:553][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2018.11.19-10.41.38:553][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2018.11.19-10.41.38:553][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2018.11.19-10.41.38:553][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2018.11.19-10.41.38:553][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2018.11.19-10.41.38:553][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2018.11.19-10.41.38:553][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2018.11.19-10.41.38:553][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2018.11.19-10.41.38:553][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2018.11.19-10.41.38:553][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2018.11.19-10.41.38:553][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2018.11.19-10.41.38:553][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2018.11.19-10.41.38:553][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2018.11.19-10.41.38:553][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2018.11.19-10.41.38:553][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2018.11.19-10.41.38:553][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2018.11.19-10.41.38:553][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2018.11.19-10.41.38:553][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2018.11.19-10.41.38:553][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Saved/Config/Windows/Scalability.ini]
+[2018.11.19-10.41.38:553][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2018.11.19-10.41.38:553][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2018.11.19-10.41.38:553][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2018.11.19-10.41.38:553][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2018.11.19-10.41.38:553][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2018.11.19-10.41.38:553][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2018.11.19-10.41.38:553][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2018.11.19-10.41.38:553][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2018.11.19-10.41.38:553][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2018.11.19-10.41.38:553][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2018.11.19-10.41.38:553][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2018.11.19-10.41.38:553][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2018.11.19-10.41.38:553][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2018.11.19-10.41.38:553][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2018.11.19-10.41.38:553][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2018.11.19-10.41.38:553][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2018.11.19-10.41.38:553][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2018.11.19-10.41.38:553][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2018.11.19-10.41.38:554][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2018.11.19-10.41.38:554][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2018.11.19-10.41.38:554][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2018.11.19-10.41.38:554][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2018.11.19-10.41.38:554][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2018.11.19-10.41.38:554][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2018.11.19-10.41.38:554][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2018.11.19-10.41.38:554][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2018.11.19-10.41.38:554][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2018.11.19-10.41.38:554][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2018.11.19-10.41.38:554][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2018.11.19-10.41.38:554][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2018.11.19-10.41.38:554][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Saved/Config/Windows/Scalability.ini]
+[2018.11.19-10.41.38:554][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2018.11.19-10.41.38:554][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2018.11.19-10.41.38:554][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2018.11.19-10.41.38:554][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2018.11.19-10.41.38:554][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2018.11.19-10.41.38:554][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2018.11.19-10.41.38:554][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2018.11.19-10.41.38:554][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2018.11.19-10.41.38:554][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Saved/Config/Windows/Scalability.ini]
+[2018.11.19-10.41.38:554][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2018.11.19-10.41.38:554][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2018.11.19-10.41.38:554][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2018.11.19-10.41.38:554][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2018.11.19-10.41.38:554][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2018.11.19-10.41.38:554][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2018.11.19-10.41.38:554][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2018.11.19-10.41.38:554][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2018.11.19-10.41.38:554][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2018.11.19-10.41.38:554][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2018.11.19-10.41.38:554][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2018.11.19-10.41.38:554][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2018.11.19-10.41.38:554][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2018.11.19-10.41.38:554][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Saved/Config/Windows/Scalability.ini]
+[2018.11.19-10.41.38:554][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2018.11.19-10.41.38:554][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2018.11.19-10.41.38:554][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2018.11.19-10.41.38:554][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2018.11.19-10.41.38:554][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Saved/Config/Windows/Engine.ini]
+[2018.11.19-10.41.38:554][  0]LogInit: Computer: STEFAN
+[2018.11.19-10.41.38:555][  0]LogInit: User: StefanDraghici
+[2018.11.19-10.41.38:555][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.11.19-10.41.38:555][  0]LogInit: High frequency timer resolution =2.531255 MHz
+[2018.11.19-10.41.38:555][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.11.19-10.41.38:555][  0]LogMemory: Platform Memory Stats for Windows
+[2018.11.19-10.41.38:555][  0]LogMemory: Process Physical Memory: 102.80 MB used, 102.80 MB peak
+[2018.11.19-10.41.38:555][  0]LogMemory: Process Virtual Memory: 92.84 MB used, 92.84 MB peak
+[2018.11.19-10.41.38:555][  0]LogMemory: Physical Memory: 5349.66 MB used,  2732.21 MB free, 8081.88 MB total
+[2018.11.19-10.41.38:555][  0]LogMemory: Virtual Memory: 4645.50 MB used,  134213080.00 MB free, 134217728.00 MB total
+[2018.11.19-10.41.38:583][  0]LogInit: Using OS detected language (en-GB).
+[2018.11.19-10.41.38:583][  0]LogInit: Using OS detected locale (ro-RO).
+[2018.11.19-10.41.38:584][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2018.11.19-10.41.39:085][  0]LogStreaming: Display: Took  0.502s to InitEngineTextLocalization.
+[2018.11.19-10.41.39:085][  0]LogInit: Setting process to per monitor DPI aware
+[2018.11.19-10.41.39:176][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.11.19-10.41.39:176][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.11.19-10.41.39:477][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.11.19-10.41.39:477][  0]LogD3D11RHI: D3D11 adapters:
+[2018.11.19-10.41.39:556][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 960M' (Feature Level 11_0)
+[2018.11.19-10.41.39:556][  0]LogD3D11RHI:       4053/0/4040 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.11.19-10.41.39:565][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2018.11.19-10.41.39:565][  0]LogD3D11RHI:       128/0/4040 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.11.19-10.41.39:570][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.11.19-10.41.39:570][  0]LogD3D11RHI:       0/0/4040 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.11.19-10.41.39:570][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.11.19-10.41.39:616][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.11.19-10.41.39:616][  0]LogD3D11RHI:     GPU DeviceId: 0x139b (for the marketing name, search the web for "GPU Device Id")
+[2018.11.19-10.41.39:616][  0]LogWindows: EnumDisplayDevices:
+[2018.11.19-10.41.39:617][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:1 D:1)
+[2018.11.19-10.41.39:617][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2018.11.19-10.41.39:618][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2018.11.19-10.41.39:618][  0]LogWindows:    3. 'NVIDIA GeForce GTX 960M' (P:0 D:0)
+[2018.11.19-10.41.39:618][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2018.11.19-10.41.39:618][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 960M
+[2018.11.19-10.41.39:618][  0]LogD3D11RHI:   Driver Version: 398.36 (internal:24.21.13.9836, unified:398.36)
+[2018.11.19-10.41.39:618][  0]LogD3D11RHI:      Driver Date: 6-24-2018
+[2018.11.19-10.41.39:618][  0]LogRHI: Texture pool is 2837 MB (70% of 4053 MB)
+[2018.11.19-10.41.39:668][  0]LogD3D11RHI: Async texture creation enabled
+[2018.11.19-10.41.39:764][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.11.19-10.41.40:223][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.11.19-10.41.40:239][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.11.19-10.41.40:254][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.11.19-10.41.40:270][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.11.19-10.41.40:290][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.11.19-10.41.40:308][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.11.19-10.41.40:323][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.11.19-10.41.40:340][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.11.19-10.41.40:348][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.11.19-10.41.40:447][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.19-10.41.40:447][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.19-10.41.40:447][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.19-10.41.40:447][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.19-10.41.40:447][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.19-10.41.40:447][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.19-10.41.40:447][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.19-10.41.40:447][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.19-10.41.40:448][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.19-10.41.40:448][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.19-10.41.40:448][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.19-10.41.40:448][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.19-10.41.40:448][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.19-10.41.40:448][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.19-10.41.40:448][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.19-10.41.40:448][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.19-10.41.40:448][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.19-10.41.40:448][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.19-10.41.40:450][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.11.19-10.41.40:513][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.11.19-10.41.40:513][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.11.19-10.41.40:542][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.11.19-10.41.40:542][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.11.19-10.41.40:555][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.11.19-10.41.40:570][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.11.19-10.41.40:585][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.11.19-10.41.40:601][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.11.19-10.41.40:665][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.11.19-10.41.40:665][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.11.19-10.41.40:665][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.11.19-10.41.40:723][  0]LogShaderCompilers: Guid format shader working directory is -20 characters bigger than the processId version (../../../../../Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Intermediate/Shaders/WorkingDirectory/18880/).
+[2018.11.19-10.41.40:723][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Stefan Draghici/AppData/Local/Temp/UnrealShaderWorkingDir/D32623B64E3C478271D635BBC7021626/'.
+[2018.11.19-10.41.40:725][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.11.19-10.41.40:725][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.11.19-10.41.40:725][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.11.19-10.41.41:387][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.11.19-10.41.41:464][  0]LogDerivedDataCache: Loaded boot cache 0.08s 71MB C:/Users/Stefan Draghici/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2018.11.19-10.41.41:464][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Stefan Draghici/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2018.11.19-10.41.41:465][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.11.19-10.41.41:465][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.11.19-10.41.41:465][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.11.19-10.41.41:465][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.11.19-10.41.41:481][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.11.19-10.41.41:481][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.11.19-10.41.41:481][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2018.11.19-10.41.41:494][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Stefan Draghici/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.11.19-10.41.41:494][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.11.19-10.41.41:494][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.11.19-10.41.41:522][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.11.19-10.41.41:524][  0]LogSlate: Using FreeType 2.6.0
+[2018.11.19-10.41.41:524][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.11.19-10.41.41:631][  0]LogAssetRegistry: FAssetRegistry took 0.0354 seconds to start up
+[2018.11.19-10.41.42:019][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.19-10.41.42:210][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.11.19-10.41.42:213][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.11.19-10.41.42:213][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.11.19-10.41.42:213][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.11.19-10.41.42:213][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.11.19-10.41.42:231][  0]LogNetVersion: ObstacleRunner 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 4241793169)
+[2018.11.19-10.41.43:075][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.247639 seconds
+[2018.11.19-10.41.43:085][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2018.11.19-10.41.43:085][  0]LogUObjectAllocator: 6914664 out of 0 bytes used by permanent object pool.
+[2018.11.19-10.41.43:085][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.11.19-10.41.44:369][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.11.19-10.41.44:384][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.11.19-10.41.45:510][  0]SourceControl: Source control is disabled
+[2018.11.19-10.41.45:510][  0]SourceControl: Source control is disabled
+[2018.11.19-10.41.45:511][  0]SourceControl: Source control is disabled
+[2018.11.19-10.41.45:512][  0]SourceControl: Source control is disabled
+[2018.11.19-10.41.45:706][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.11.19-10.41.45:788][  0]LogOcInput: OculusInput pre-init called
+[2018.11.19-10.41.45:938][  0]LogEngine: Initializing Engine...
+[2018.11.19-10.41.45:939][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.11.19-10.41.45:940][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.11.19-10.41.45:940][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.19-10.41.45:940][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.11.19-10.41.45:940][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.19-10.41.46:237][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.11.19-10.41.46:251][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.11.19-10.41.46:275][  0]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.19-10.41.46:306][  0]LogInit: FAudioDevice initialized.
+[2018.11.19-10.41.46:306][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.11.19-10.41.46:436][  0]LogDerivedDataCache: Saved boot cache 0.13s 71MB C:/Users/Stefan Draghici/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2018.11.19-10.41.46:444][  0]LogInit: Texture streaming: Enabled
+[2018.11.19-10.41.46:462][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.11.19-10.41.46:496][  0]LogInit: Transaction tracking system initialized
+[2018.11.19-10.41.46:518][  0]BlueprintLog: New page: Editor Load
+[2018.11.19-10.41.46:596][  0]LocalizationService: Localization service is disabled
+[2018.11.19-10.41.47:418][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Content/' took 0.07s
+[2018.11.19-10.41.47:418][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.11.19-10.41.47:418][  0]LogCook: Display: Mobile HDR setting 1
+[2018.11.19-10.41.47:418][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.11.19-10.41.47:418][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.11.19-10.41.47:418][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.19-10.41.47:418][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.11.19-10.41.47:418][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.19-10.41.47:561][  0]SourceControl: Source control is disabled
+[2018.11.19-10.41.47:562][  0]Cmd: MAP LOAD FILE="../../../../../Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Content/Levels/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.19-10.41.47:562][  0]LightingResults: New page: Lighting Build
+[2018.11.19-10.41.47:564][  0]MapCheck: New page: Map Check
+[2018.11.19-10.41.47:564][  0]LightingResults: New page: Lighting Build
+[2018.11.19-10.41.50:377][  0]LogAIModule: Creating AISystem for world Level1
+[2018.11.19-10.41.50:399][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.19-10.41.50:432][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.19-10.41.50:432][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,245ms to complete.
+[2018.11.19-10.41.50:432][  0]LogFileHelpers: Loading map 'Level1' took 2.871
+[2018.11.19-10.41.51:138][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.19-10.41.51:150][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.19-10.41.51:161][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.19-10.41.51:171][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.19-10.41.51:240][  0]LogCollectionManager: Loaded 0 collections in 0.001427 seconds
+[2018.11.19-10.41.51:429][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Saved/Collections/' took 0.01s
+[2018.11.19-10.41.51:429][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Content/Developers/StefanDraghici/Collections/' took 0.01s
+[2018.11.19-10.41.51:429][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Content/Collections/' took 0.01s
+[2018.11.19-10.41.51:429][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.11.19-10.41.51:471][  0]LogContentBrowser: Native class hierarchy populated in 0.0156 seconds. Added 2652 classes and 622 folders.
+[2018.11.19-10.41.51:535][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.11.19-10.41.51:630][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.19-10.41.51:687][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.19-10.41.51:701][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.19-10.41.51:713][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.19-10.41.51:725][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.19-10.41.51:736][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.19-10.41.51:746][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.19-10.41.51:758][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.19-10.41.51:770][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.19-10.41.51:781][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.19-10.41.51:798][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.19-10.41.51:813][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.19-10.41.51:823][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.19-10.41.51:845][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.19-10.41.51:862][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.19-10.41.51:869][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.19-10.41.51:882][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.19-10.41.51:894][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.19-10.41.51:905][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.19-10.41.51:915][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.19-10.41.51:928][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.19-10.41.51:936][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.19-10.41.51:951][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.19-10.41.51:973][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.19-10.41.51:983][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.19-10.41.52:023][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.19-10.41.53:044][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.11.19-10.41.53:563][  0]LogSlate: Took 0.000182 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.11.19-10.41.53:584][  0]LogSlate: Took 0.000319 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.11.19-10.41.53:640][  0]LogSlate: Took 0.021657 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.11.19-10.41.54:042][  0]LogRenderer: Reallocating scene render targets to support 1124x612 Format 10 NumSamples 1 (Frame:1).
+[2018.11.19-10.41.54:639][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.11.19-10.41.54:639][  0]LogLoad: (Engine Initialization) Total time: 20.54 seconds
+[2018.11.19-10.41.54:639][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.11.19-10.41.54:760][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.11.19-10.41.54:834][  0]LogSlate: Took 0.024419 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.19-10.41.55:296][  2]LogAssetRegistry: Asset discovery search completed in 13.6882 seconds
+[2018.11.19-10.41.55:299][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.11.19-10.41.55:299][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000095 seconds (updated 0 objects)
+[2018.11.19-10.42.48:050][796]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.19-10.43.02:075][684]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.19-10.43.08:162][214]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.19-10.43.15:209][816]LogSlate: Took 0.000253 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.19-10.43.15:861][816]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Saved/Level105DB4F4D47D7A4C40B3215BE694E0EBD.tmp' to '../../../../../Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Content/Levels/Level1.umap'
+[2018.11.19-10.43.16:031][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1_BuiltData" FILE="../../../../../Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Content/Levels/Level1_BuiltData.uasset" SILENT=true
+[2018.11.19-10.43.16:419][816]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Saved/Level1_BuiltDataF3826275492CEB81F1BE72B8E767ADFC.tmp' to '../../../../../Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Content/Levels/Level1_BuiltData.uasset'
+[2018.11.19-10.43.22:679][ 62]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.19-10.43.28:203][501]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.19-10.43.28:210][501]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Levels/Level1.Level1:PersistentLevel.Level1
+[2018.11.19-10.43.29:543][501]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 117 classes and 0 folders.
+[2018.11.19-10.43.31:179][501]LogSlate: Took 0.010224 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.11.19-10.43.37:040][672]LogSlate: Window 'Level1 - Level Blueprint Editor' being destroyed
+[2018.11.19-10.43.38:119][790]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.19-10.46.25:551][558]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Saved/Level1549669564AE146F072A1FD8CBEB4AF86.tmp' to '../../../../../Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Content/Levels/Level1.umap'
+[2018.11.19-10.46.25:580][558]LogFileHelpers: Saving map 'Level1' took 0.732
+[2018.11.19-10.47.26:089][122]BlueprintLog: New page: Compile Level1
+[2018.11.19-10.47.27:649][240]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Saved/Level153D5C27845643782250B7DA3AD8ACD1A.tmp' to '../../../../../Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Content/Levels/Level1.umap'
+[2018.11.19-10.47.27:672][240]LogFileHelpers: Saving map 'Level1' took 0.390
+[2018.11.19-10.47.31:118][607]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Saved/Level167E0AB934B019789EDA7CBBF076ECC93.tmp' to '../../../../../Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Content/Levels/Level1.umap'
+[2018.11.19-10.47.31:140][607]LogFileHelpers: Saving map 'Level1' took 0.364
+[2018.11.19-10.47.37:293][ 53]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Saved/Level180DC341343D7A8565F72598C7524C202.tmp' to '../../../../../Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Content/Levels/Level1.umap'
+[2018.11.19-10.47.37:319][ 53]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1_BuiltData" FILE="../../../../../Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Content/Levels/Level1_BuiltData.uasset" SILENT=true
+[2018.11.19-10.47.37:520][ 53]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Saved/Level1_BuiltData9196E76D4E1E7FDE8C6268AB70DF88F2.tmp' to '../../../../../Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Content/Levels/Level1_BuiltData.uasset'
+[2018.11.19-10.47.48:795][178]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.19-10.47.48:849][178]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Levels/Level1.Level1:PersistentLevel.Level1'
+[2018.11.19-10.47.48:850][178]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.19-10.47.48:891][178]PIE: New page: PIE session: Level1 (19 nov. 2018, 14:47:48)
+[2018.11.19-10.47.48:925][178]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2018.11.19-10.47.48:948][178]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022585s)
+[2018.11.19-10.47.48:949][178]LogAIModule: Creating AISystem for world Level1
+[2018.11.19-10.47.48:949][178]LogPlayLevel: PIE: World Init took: (0.000803s)
+[2018.11.19-10.47.48:949][178]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.023887s)
+[2018.11.19-10.47.48:984][178]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.19-10.47.49:003][178]LogInit: FAudioDevice initialized.
+[2018.11.19-10.47.49:089][178]LogLoad: Game class is 'GameModeBase'
+[2018.11.19-10.47.49:126][178]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.11.19-12.47.49
+[2018.11.19-10.47.49:142][178]LogWorld: Bringing up level for play took: 0.017728
+[2018.11.19-10.47.49:326][178]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2018.11.19-10.47.49:362][178]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Level1 -0,164
+[2018.11.19-10.47.49:362][178]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Levels/Level1.Level1:PersistentLevel.Level1'
+[2018.11.19-10.47.51:087][295]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.19-10.47.51:087][295]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Levels/Level1.Level1:PersistentLevel.Level1'
+[2018.11.19-10.47.51:135][295]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.19-10.47.51:135][295]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Levels/Level1.Level1:PersistentLevel.Level1'
+[2018.11.19-10.47.51:169][295]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.19-10.47.51:197][296]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2018.11.19-10.48.18:327][645]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.19-10.50.05:409][629]LogHttp: Warning: 000001F48827CCC0: request failed, libcurl error: 7 (Couldn't connect to server)
+[2018.11.19-10.50.05:409][629]LogHttp: Warning: 000001F48827CCC0: libcurl info message cache 0 (Connection 4 seems to be dead!)
+[2018.11.19-10.50.05:409][629]LogHttp: Warning: 000001F48827CCC0: libcurl info message cache 1 (Closing connection 4)
+[2018.11.19-10.50.05:409][629]LogHttp: Warning: 000001F48827CCC0: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2018.11.19-10.50.05:410][629]LogHttp: Warning: 000001F48827CCC0: libcurl info message cache 3 (  Trying 18.211.124.69...)
+[2018.11.19-10.50.05:410][629]LogHttp: Warning: 000001F48827CCC0: libcurl info message cache 4 (TCP_NODELAY set)
+[2018.11.19-10.50.05:410][629]LogHttp: Warning: 000001F48827CCC0: libcurl info message cache 5 (connect to 18.211.124.69 port 443 failed: Connection was aborted)
+[2018.11.19-10.50.05:410][629]LogHttp: Warning: 000001F48827CCC0: libcurl info message cache 6 (  Trying 34.232.150.207...)
+[2018.11.19-10.50.05:410][629]LogHttp: Warning: 000001F48827CCC0: libcurl info message cache 7 (TCP_NODELAY set)
+[2018.11.19-10.50.05:410][629]LogHttp: Warning: 000001F48827CCC0: libcurl info message cache 8 (connect to 34.232.150.207 port 443 failed: Network unreachable)
+[2018.11.19-10.50.05:410][629]LogHttp: Warning: 000001F48827CCC0: libcurl info message cache 9 (  Trying 52.1.22.73...)
+[2018.11.19-10.50.05:410][629]LogHttp: Warning: 000001F48827CCC0: libcurl info message cache 10 (TCP_NODELAY set)
+[2018.11.19-10.50.05:412][629]LogHttp: Warning: 000001F48827CCC0: libcurl info message cache 11 (connect to 52.1.22.73 port 443 failed: Network unreachable)
+[2018.11.19-10.50.05:412][629]LogHttp: Warning: 000001F48827CCC0: libcurl info message cache 12 (  Trying 52.22.91.178...)
+[2018.11.19-10.50.05:412][629]LogHttp: Warning: 000001F48827CCC0: libcurl info message cache 13 (TCP_NODELAY set)
+[2018.11.19-10.50.05:412][629]LogHttp: Warning: 000001F48827CCC0: libcurl info message cache 14 (connect to 52.22.91.178 port 443 failed: Network unreachable)
+[2018.11.19-10.50.05:412][629]LogHttp: Warning: 000001F48827CCC0: libcurl info message cache 15 (  Trying 52.54.243.91...)
+[2018.11.19-10.50.05:412][629]LogHttp: Warning: 000001F48827CCC0: libcurl info message cache 16 (TCP_NODELAY set)
+[2018.11.19-10.50.05:412][629]LogHttp: Warning: 000001F48827CCC0: libcurl info message cache 17 (connect to 52.54.243.91 port 443 failed: Network unreachable)
+[2018.11.19-10.50.05:412][629]LogHttp: Warning: 000001F48827CCC0: libcurl info message cache 18 (  Trying 54.85.53.73...)
+[2018.11.19-10.50.05:413][629]LogHttp: Warning: 000001F48827CCC0: libcurl info message cache 19 (TCP_NODELAY set)
+[2018.11.19-10.50.05:413][629]LogHttp: Warning: 000001F48827CCC0: libcurl info message cache 20 (connect to 54.85.53.73 port 443 failed: Network unreachable)
+[2018.11.19-10.50.05:413][629]LogHttp: Warning: 000001F48827CCC0: libcurl info message cache 21 (  Trying 54.224.96.69...)
+[2018.11.19-10.50.05:413][629]LogHttp: Warning: 000001F48827CCC0: libcurl info message cache 22 (TCP_NODELAY set)
+[2018.11.19-10.50.05:413][629]LogHttp: Warning: 000001F48827CCC0: libcurl info message cache 23 (connect to 54.224.96.69 port 443 failed: Network unreachable)
+[2018.11.19-10.50.05:413][629]LogHttp: Warning: 000001F48827CCC0: libcurl info message cache 24 (  Trying 18.210.76.70...)
+[2018.11.19-10.50.05:413][629]LogHttp: Warning: 000001F48827CCC0: libcurl info message cache 25 (TCP_NODELAY set)
+[2018.11.19-10.50.05:413][629]LogHttp: Warning: 000001F48827CCC0: libcurl info message cache 26 (connect to 18.210.76.70 port 443 failed: Network unreachable)
+[2018.11.19-10.50.05:413][629]LogHttp: Warning: 000001F48827CCC0: libcurl info message cache 27 (Failed to connect to datarouter.ol.epicgames.com port 443: Network unreachable)
+[2018.11.19-10.50.05:413][629]LogHttp: Warning: 000001F48827CCC0: libcurl info message cache 28 (Closing connection 5)
+[2018.11.19-10.50.05:712][630]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7D0F6C35-4D5A-4289-E6EC-FCABCB9CE028%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.0-4541578%2B%2B%2BUE4%2BRelease-4.21&UserID=36a2010a420212a506d07d9b9d6b2e5d%7C843b03aff42d4d868ee45c9158a20d68%7C094cfee2-d7f7-436c-9fc0-16bfc8aaeafa&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2018.11.19-10.51.37:746][ 64]LogSlate: Took 0.040201 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.11.19-10.52.33:350][432]BlueprintLog: New page: Compile Level1
+[2018.11.19-10.52.38:374][963]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Saved/Level1AEBFADE545DB9CDFAFCF92BFFA581564.tmp' to '../../../../../Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Content/Levels/Level1.umap'
+[2018.11.19-10.52.38:398][963]LogFileHelpers: Saving map 'Level1' took 0.381
+[2018.11.19-10.52.38:807][  8]BlueprintLog: New page: Compile Level1
+[2018.11.19-10.52.40:223][154]BlueprintLog: New page: Compile Level1
+[2018.11.19-10.54.31:582][ 38]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Saved/Level1E68C2884434B745A7FF0319DC7BD867B.tmp' to '../../../../../Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Content/Levels/Level1.umap'
+[2018.11.19-10.54.31:605][ 38]LogFileHelpers: Saving map 'Level1' took 0.375
+[2018.11.19-10.54.33:741][291]BlueprintLog: New page: Compile Level1
+[2018.11.19-10.58.55:048][621]BlueprintLog: New page: Compile Level1
+[2018.11.19-10.59.25:151][124]BlueprintLog: New page: Compile Level1
+[2018.11.19-10.59.26:187][178]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Saved/Level11153863A459E72682F9C3AB8255DECE2.tmp' to '../../../../../Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Content/Levels/Level1.umap'
+[2018.11.19-10.59.26:213][178]LogFileHelpers: Saving map 'Level1' took 0.382
+[2018.11.19-11.02.44:638][870]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Saved/Level1842389E04893413E62044F834CA43857.tmp' to '../../../../../Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Content/Levels/Level1.umap'
+[2018.11.19-11.02.44:705][870]LogFileHelpers: Saving map 'Level1' took 0.737
+[2018.11.19-11.02.54:583][373]BlueprintLog: New page: Compile Level1
+[2018.11.19-11.02.55:779][448]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Saved/Level18F5C8DB14ED694AC47588A96EB54D334.tmp' to '../../../../../Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Content/Levels/Level1.umap'
+[2018.11.19-11.02.55:847][448]LogFileHelpers: Saving map 'Level1' took 0.421
+[2018.11.19-11.03.00:076][690]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.19-11.03.00:086][690]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Levels/Level1.Level1:PersistentLevel.Level1'
+[2018.11.19-11.03.00:086][690]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.19-11.03.00:086][690]PIE: New page: PIE session: Level1 (19 nov. 2018, 15:03:00)
+[2018.11.19-11.03.00:086][690]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2018.11.19-11.03.00:107][690]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020646s)
+[2018.11.19-11.03.00:108][690]LogAIModule: Creating AISystem for world Level1
+[2018.11.19-11.03.00:108][690]LogPlayLevel: PIE: World Init took: (0.001056s)
+[2018.11.19-11.03.00:108][690]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.021907s)
+[2018.11.19-11.03.00:147][690]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.19-11.03.00:165][690]LogInit: FAudioDevice initialized.
+[2018.11.19-11.03.00:227][690]LogLoad: Game class is 'GameModeBase'
+[2018.11.19-11.03.00:231][690]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.11.19-13.03.00
+[2018.11.19-11.03.00:255][690]LogWorld: Bringing up level for play took: 0.026204
+[2018.11.19-11.03.00:268][690]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Level1 0,742
+[2018.11.19-11.03.00:269][690]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Levels/Level1.Level1:PersistentLevel.Level1'
+[2018.11.19-11.03.06:990][134]LogBlueprintUserMessages: [Level1_C_17] torch
+[2018.11.19-11.03.06:990][134]LogBlueprintUserMessages: [Level1_C_17] map
+[2018.11.19-11.03.06:990][134]LogBlueprintUserMessages: [Level1_C_17] knife
+[2018.11.19-11.03.08:855][257]LogBlueprintUserMessages: [Level1_C_17] torch
+[2018.11.19-11.03.08:855][257]LogBlueprintUserMessages: [Level1_C_17] map
+[2018.11.19-11.03.08:855][257]LogBlueprintUserMessages: [Level1_C_17] knife
+[2018.11.19-11.03.11:106][407]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Levels/Level1.Level1:PersistentLevel.Level1'
+[2018.11.19-11.03.11:106][407]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.19-11.03.11:156][407]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.19-11.03.11:156][407]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Levels/Level1.Level1:PersistentLevel.Level1'
+[2018.11.19-11.03.11:188][407]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.19-11.03.11:231][408]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2018.11.19-11.03.54:935][649]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.19-11.04.45:649][808]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Saved/Level1CB79B02E4A405DF7A35F2A87BAD99E1B.tmp' to '../../../../../Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Content/Levels/Level1.umap'
+[2018.11.19-11.04.45:668][808]LogFileHelpers: Saving map 'Level1' took 0.639
+[2018.11.19-11.04.55:279][522]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Saved/Level10941BAC94980FCACF4134D89DA909A30.tmp' to '../../../../../Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Content/Levels/Level1.umap'
+[2018.11.19-11.04.55:301][522]LogFileHelpers: Saving map 'Level1' took 0.359
+[2018.11.19-11.05.41:654][731]LogSlate: Window 'Color Picker' being destroyed
+[2018.11.19-11.06.51:524][107]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Saved/Level17EBDD9DB43383D7DDC49DCB08B7E1247.tmp' to '../../../../../Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Content/Levels/Level1.umap'
+[2018.11.19-11.06.51:549][107]LogFileHelpers: Saving map 'Level1' took 0.354
+[2018.11.19-11.06.56:371][326]BlueprintLog: New page: Compile Level1
+[2018.11.19-11.06.57:439][377]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Saved/Level1A1CEE4F54D915A534B50BEBD807E9BE0.tmp' to '../../../../../Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Content/Levels/Level1.umap'
+[2018.11.19-11.06.57:466][377]LogFileHelpers: Saving map 'Level1' took 0.421
+[2018.11.19-11.06.59:219][494]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.19-11.06.59:238][494]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Levels/Level1.Level1:PersistentLevel.Level1'
+[2018.11.19-11.06.59:238][494]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.19-11.06.59:238][494]PIE: New page: PIE session: Level1 (19 nov. 2018, 15:06:59)
+[2018.11.19-11.06.59:239][494]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2018.11.19-11.06.59:265][494]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025777s)
+[2018.11.19-11.06.59:265][494]LogAIModule: Creating AISystem for world Level1
+[2018.11.19-11.06.59:266][494]LogPlayLevel: PIE: World Init took: (0.001122s)
+[2018.11.19-11.06.59:266][494]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.027226s)
+[2018.11.19-11.06.59:304][494]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.19-11.06.59:325][494]LogInit: FAudioDevice initialized.
+[2018.11.19-11.06.59:364][494]LogLoad: Game class is 'GameModeBase'
+[2018.11.19-11.06.59:367][494]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.11.19-13.06.59
+[2018.11.19-11.06.59:367][494]LogWorld: Bringing up level for play took: 0.002572
+[2018.11.19-11.06.59:380][494]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Level1 -0,146
+[2018.11.19-11.06.59:380][494]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Levels/Level1.Level1:PersistentLevel.Level1'
+[2018.11.19-11.07.02:697][727]LogBlueprintUserMessages: [Level1_C_22] torch
+[2018.11.19-11.07.02:697][727]LogBlueprintUserMessages: [Level1_C_22] map
+[2018.11.19-11.07.02:697][727]LogBlueprintUserMessages: [Level1_C_22] knife
+[2018.11.19-11.07.04:175][822]LogBlueprintUserMessages: [Level1_C_22] Shield added to inventory
+[2018.11.19-11.07.06:454][974]LogBlueprintUserMessages: [Level1_C_22] torch
+[2018.11.19-11.07.06:454][974]LogBlueprintUserMessages: [Level1_C_22] map
+[2018.11.19-11.07.06:454][974]LogBlueprintUserMessages: [Level1_C_22] knife
+[2018.11.19-11.07.06:454][974]LogBlueprintUserMessages: [Level1_C_22] shield
+[2018.11.19-11.07.10:420][228]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Levels/Level1.Level1:PersistentLevel.Level1'
+[2018.11.19-11.07.10:420][228]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.19-11.07.10:474][228]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.19-11.07.10:474][228]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Levels/Level1.Level1:PersistentLevel.Level1'
+[2018.11.19-11.07.10:509][228]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.19-11.07.10:554][229]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2018.11.19-11.07.12:201][310]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.19-11.07.12:590][310]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Saved/Level19518FD914985750EE0D461891947253D.tmp' to '../../../../../Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Content/Levels/Level1.umap'
+[2018.11.19-11.07.12:616][310]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1_BuiltData" FILE="../../../../../Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Content/Levels/Level1_BuiltData.uasset" SILENT=true
+[2018.11.19-11.07.12:790][310]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Saved/Level1_BuiltData73C9C5164D7EDC56D68EE18AD9B583C5.tmp' to '../../../../../Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Content/Levels/Level1_BuiltData.uasset'
+[2018.11.19-11.11.45:621][488]BlueprintLog: New page: Compile Level1
+[2018.11.19-11.14.04:777][384]BlueprintLog: New page: Compile Level1
+[2018.11.19-11.14.05:965][446]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Saved/Level1DE4513FA489560F3AC0255A3AA4E748E.tmp' to '../../../../../Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Content/Levels/Level1.umap'
+[2018.11.19-11.14.05:991][446]LogFileHelpers: Saving map 'Level1' took 0.466
+[2018.11.19-11.14.22:405][519]LogSlate: Took 0.011840 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.11.19-11.14.38:353][354]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Saved/Level10311088241666DE10C5C4EA2E47FEFC3.tmp' to '../../../../../Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Content/Levels/Level1.umap'
+[2018.11.19-11.14.38:375][354]LogFileHelpers: Saving map 'Level1' took 0.342
+[2018.11.19-11.14.56:967][ 35]BlueprintLog: New page: Compile Level1
+[2018.11.19-11.14.57:822][ 70]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Saved/Level164739EB642816F94AF1EBDA016788CF6.tmp' to '../../../../../Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Content/Levels/Level1.umap'
+[2018.11.19-11.14.57:846][ 70]LogFileHelpers: Saving map 'Level1' took 0.380
+[2018.11.19-11.15.00:500][249]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.19-11.15.00:512][249]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Levels/Level1.Level1:PersistentLevel.Level1'
+[2018.11.19-11.15.00:512][249]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.19-11.15.00:512][249]PIE: New page: PIE session: Level1 (19 nov. 2018, 15:15:00)
+[2018.11.19-11.15.00:512][249]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2018.11.19-11.15.00:539][249]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026148s)
+[2018.11.19-11.15.00:539][249]LogAIModule: Creating AISystem for world Level1
+[2018.11.19-11.15.00:539][249]LogPlayLevel: PIE: World Init took: (0.000719s)
+[2018.11.19-11.15.00:540][249]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.027138s)
+[2018.11.19-11.15.00:577][249]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.19-11.15.00:597][249]LogInit: FAudioDevice initialized.
+[2018.11.19-11.15.00:633][249]LogLoad: Game class is 'GameModeBase'
+[2018.11.19-11.15.00:637][249]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.11.19-13.15.00
+[2018.11.19-11.15.00:638][249]LogWorld: Bringing up level for play took: 0.002908
+[2018.11.19-11.15.00:685][249]LogBlueprintUserMessages: [Level1_C_29] Hello, Stefan, and welcome!
+[2018.11.19-11.15.00:686][249]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Level1 1,159
+[2018.11.19-11.15.00:686][249]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Levels/Level1.Level1:PersistentLevel.Level1'
+[2018.11.19-11.15.05:311][585]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Levels/Level1.Level1:PersistentLevel.Level1'
+[2018.11.19-11.15.05:311][585]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.19-11.15.05:363][585]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.19-11.15.05:363][585]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Levels/Level1.Level1:PersistentLevel.Level1'
+[2018.11.19-11.15.05:396][585]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.19-11.15.05:436][586]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2018.11.19-11.15.12:905][702]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.19-11.15.20:994][603]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Saved/Level1827B2B3742ED5B03A3EB2BB16761CE2E.tmp' to '../../../../../Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Content/Levels/Level1.umap'
+[2018.11.19-11.15.21:015][603]LogFileHelpers: Saving map 'Level1' took 0.387
+[2018.11.19-11.15.21:833][698]BlueprintLog: New page: Compile Level1
+[2018.11.19-11.15.22:796][752]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Saved/Level10E3DEB8044420A20E9EEB1882B609B3D.tmp' to '../../../../../Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Content/Levels/Level1.umap'
+[2018.11.19-11.15.22:818][752]LogFileHelpers: Saving map 'Level1' took 0.344
+[2018.11.19-11.15.25:274][937]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.19-11.15.25:285][937]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Levels/Level1.Level1:PersistentLevel.Level1'
+[2018.11.19-11.15.25:286][937]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.19-11.15.25:286][937]PIE: New page: PIE session: Level1 (19 nov. 2018, 15:15:25)
+[2018.11.19-11.15.25:286][937]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2018.11.19-11.15.25:309][937]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022744s)
+[2018.11.19-11.15.25:310][937]LogAIModule: Creating AISystem for world Level1
+[2018.11.19-11.15.25:310][937]LogPlayLevel: PIE: World Init took: (0.001114s)
+[2018.11.19-11.15.25:310][937]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.024188s)
+[2018.11.19-11.15.25:344][937]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.19-11.15.25:361][937]LogInit: FAudioDevice initialized.
+[2018.11.19-11.15.25:397][937]LogLoad: Game class is 'GameModeBase'
+[2018.11.19-11.15.25:400][937]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.11.19-13.15.25
+[2018.11.19-11.15.25:401][937]LogWorld: Bringing up level for play took: 0.002165
+[2018.11.19-11.15.25:414][937]LogBlueprintUserMessages: [Level1_C_32] Hello, Stefan, and welcome!
+[2018.11.19-11.15.25:414][937]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Level1 -0,112
+[2018.11.19-11.15.25:415][937]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Levels/Level1.Level1:PersistentLevel.Level1'
+[2018.11.19-11.15.30:738][300]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Levels/Level1.Level1:PersistentLevel.Level1'
+[2018.11.19-11.15.30:739][300]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.19-11.15.30:789][300]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.19-11.15.30:789][300]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Levels/Level1.Level1:PersistentLevel.Level1'
+[2018.11.19-11.15.30:821][300]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.19-11.15.30:846][301]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2018.11.19-11.17.39:698][432]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Saved/Level10EEA8EFF4B22FA81B99DB3B5525C8BD0.tmp' to '../../../../../Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Content/Levels/Level1.umap'
+[2018.11.19-11.17.39:722][432]LogFileHelpers: Saving map 'Level1' took 0.391
+[2018.11.19-11.18.56:102][869]BlueprintLog: New page: Compile Level1
+[2018.11.19-11.18.57:901][ 64]BlueprintLog: New page: Compile Level1
+[2018.11.19-11.18.59:144][146]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Saved/Level165C725744C7A7DB7094B68BE3ADB66D0.tmp' to '../../../../../Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Content/Levels/Level1.umap'
+[2018.11.19-11.18.59:166][146]LogFileHelpers: Saving map 'Level1' took 0.394
+[2018.11.19-11.21.50:274][594]BlueprintLog: New page: Compile Level1
+[2018.11.19-11.21.57:348][368]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Saved/Level147C7E0CF4FD5B8330F63D7A826F75745.tmp' to '../../../../../Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Content/Levels/Level1.umap'
+[2018.11.19-11.21.57:370][368]LogFileHelpers: Saving map 'Level1' took 0.401
+[2018.11.19-11.22.02:407][684]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Saved/Level158690C954317197678D1C595E4D2F4DB.tmp' to '../../../../../Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Content/Levels/Level1.umap'
+[2018.11.19-11.22.02:429][684]LogFileHelpers: Saving map 'Level1' took 0.392
+[2018.11.19-11.23.53:375][199]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Saved/Level1119C67C240D9C694E7EDCCA7EE11288D.tmp' to '../../../../../Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Content/Levels/Level1.umap'
+[2018.11.19-11.23.53:397][199]LogFileHelpers: Saving map 'Level1' took 0.370
+[2018.11.19-11.23.53:911][258]BlueprintLog: New page: Compile Level1
+[2018.11.19-11.23.55:077][334]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Saved/Level1A7C65F2E4505AAEA163F60B4D70F9F6F.tmp' to '../../../../../Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Content/Levels/Level1.umap'
+[2018.11.19-11.23.55:099][334]LogFileHelpers: Saving map 'Level1' took 0.358
+[2018.11.19-11.25.34:935][171]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Saved/Level181E835D54FB05180D06622BA13602C8F.tmp' to '../../../../../Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Content/Levels/Level1.umap'
+[2018.11.19-11.25.34:958][171]LogFileHelpers: Saving map 'Level1' took 0.398
+[2018.11.19-11.27.18:402][487]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Saved/Level12443EE34484E6987564C0BB0FAD0F2D6.tmp' to '../../../../../Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Content/Levels/Level1.umap'
+[2018.11.19-11.27.18:425][487]LogFileHelpers: Saving map 'Level1' took 0.418
+[2018.11.19-11.27.19:006][550]BlueprintLog: New page: Compile Level1
+[2018.11.19-11.27.20:109][608]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Saved/Level171379C3042BBC040CD193FBDCD2E34C5.tmp' to '../../../../../Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Content/Levels/Level1.umap'
+[2018.11.19-11.27.20:132][608]LogFileHelpers: Saving map 'Level1' took 0.401
+[2018.11.19-11.27.37:762][841]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.19-11.27.37:773][841]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Levels/Level1.Level1:PersistentLevel.Level1'
+[2018.11.19-11.27.37:773][841]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.19-11.27.37:774][841]PIE: New page: PIE session: Level1 (19 nov. 2018, 15:27:37)
+[2018.11.19-11.27.37:774][841]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2018.11.19-11.27.37:796][841]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021909s)
+[2018.11.19-11.27.37:797][841]LogAIModule: Creating AISystem for world Level1
+[2018.11.19-11.27.37:797][841]LogPlayLevel: PIE: World Init took: (0.000785s)
+[2018.11.19-11.27.37:797][841]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.022919s)
+[2018.11.19-11.27.37:832][841]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.19-11.27.37:852][841]LogInit: FAudioDevice initialized.
+[2018.11.19-11.27.37:886][841]LogLoad: Game class is 'GameModeBase'
+[2018.11.19-11.27.37:889][841]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.11.19-13.27.37
+[2018.11.19-11.27.37:890][841]LogWorld: Bringing up level for play took: 0.002519
+[2018.11.19-11.27.37:910][841]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Level1 0,384
+[2018.11.19-11.27.37:910][841]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Levels/Level1.Level1:PersistentLevel.Level1'
+[2018.11.19-11.27.40:031][995]LogBlueprintUserMessages: [Level1_C_46] Hello
+[2018.11.19-11.27.40:255][ 10]LogBlueprintUserMessages: [Level1_C_46] Hello
+[2018.11.19-11.27.40:486][ 25]LogBlueprintUserMessages: [Level1_C_46] Hello
+[2018.11.19-11.27.40:692][ 39]LogBlueprintUserMessages: [Level1_C_46] Hello
+[2018.11.19-11.27.40:940][ 55]LogBlueprintUserMessages: [Level1_C_46] Hello
+[2018.11.19-11.27.41:127][ 68]LogBlueprintUserMessages: [Level1_C_46] Hello
+[2018.11.19-11.27.41:389][ 85]LogBlueprintUserMessages: [Level1_C_46] Hello
+[2018.11.19-11.27.41:642][102]LogBlueprintUserMessages: [Level1_C_46] Hello
+[2018.11.19-11.27.41:878][118]LogBlueprintUserMessages: [Level1_C_46] Hello
+[2018.11.19-11.27.42:235][141]LogBlueprintUserMessages: [Level1_C_46] Hello
+[2018.11.19-11.27.52:763][765]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Levels/Level1.Level1:PersistentLevel.Level1'
+[2018.11.19-11.27.52:763][765]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.19-11.27.52:818][765]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.19-11.27.52:818][765]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Levels/Level1.Level1:PersistentLevel.Level1'
+[2018.11.19-11.27.52:851][765]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.19-11.27.52:900][766]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2018.11.19-11.27.54:492][852]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.19-11.27.54:852][852]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Saved/Level1B84A65BE4A4D53E5EC6645BEB67896B6.tmp' to '../../../../../Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Content/Levels/Level1.umap'
+[2018.11.19-11.27.54:876][852]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1_BuiltData" FILE="../../../../../Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Content/Levels/Level1_BuiltData.uasset" SILENT=true
+[2018.11.19-11.27.55:025][852]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Saved/Level1_BuiltData18FEFA4040FE2985EE15CFB0FC22B399.tmp' to '../../../../../Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Content/Levels/Level1_BuiltData.uasset'
+[2018.11.19-11.28.43:883][210]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Saved/Level1A32336DA441C5D5B74E1BD8D687F20CD.tmp' to '../../../../../Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Content/Levels/Level1.umap'
+[2018.11.19-11.28.43:904][210]LogFileHelpers: Saving map 'Level1' took 0.361
+[2018.11.19-11.28.45:312][373]BlueprintLog: New page: Compile Level1
+[2018.11.19-11.28.46:418][440]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Saved/Level15FA82880446299A32F87D995433CDDE9.tmp' to '../../../../../Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Content/Levels/Level1.umap'
+[2018.11.19-11.28.46:439][440]LogFileHelpers: Saving map 'Level1' took 0.355
+[2018.11.19-11.28.47:796][514]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.19-11.28.47:807][514]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Levels/Level1.Level1:PersistentLevel.Level1'
+[2018.11.19-11.28.47:807][514]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.19-11.28.47:807][514]PIE: New page: PIE session: Level1 (19 nov. 2018, 15:28:47)
+[2018.11.19-11.28.47:807][514]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2018.11.19-11.28.47:832][514]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024190s)
+[2018.11.19-11.28.47:833][514]LogAIModule: Creating AISystem for world Level1
+[2018.11.19-11.28.47:833][514]LogPlayLevel: PIE: World Init took: (0.000720s)
+[2018.11.19-11.28.47:833][514]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.025174s)
+[2018.11.19-11.28.47:868][514]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.19-11.28.47:886][514]LogInit: FAudioDevice initialized.
+[2018.11.19-11.28.47:922][514]LogLoad: Game class is 'GameModeBase'
+[2018.11.19-11.28.47:925][514]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.11.19-13.28.47
+[2018.11.19-11.28.47:925][514]LogWorld: Bringing up level for play took: 0.002112
+[2018.11.19-11.28.47:938][514]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Level1 0,412
+[2018.11.19-11.28.47:938][514]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Levels/Level1.Level1:PersistentLevel.Level1'
+[2018.11.19-11.28.50:266][681]LogBlueprintUserMessages: [Level1_C_50] Hello
+[2018.11.19-11.28.50:528][697]LogBlueprintUserMessages: [Level1_C_50] Hello
+[2018.11.19-11.28.50:758][712]LogBlueprintUserMessages: [Level1_C_50] Hello
+[2018.11.19-11.28.50:993][726]LogBlueprintUserMessages: [Level1_C_50] Hello
+[2018.11.19-11.28.51:299][745]LogBlueprintUserMessages: [Level1_C_50] Hello
+[2018.11.19-11.28.53:882][908]LogBlueprintUserMessages: [Level1_C_50] Hello
+[2018.11.19-11.28.54:179][927]LogBlueprintUserMessages: [Level1_C_50] Hello
+[2018.11.19-11.28.54:381][940]LogBlueprintUserMessages: [Level1_C_50] Hello
+[2018.11.19-11.28.54:587][952]LogBlueprintUserMessages: [Level1_C_50] Hello
+[2018.11.19-11.28.54:752][963]LogBlueprintUserMessages: [Level1_C_50] Hello
+[2018.11.19-11.28.56:119][ 49]LogBlueprintUserMessages: [Level1_C_50] Hello
+[2018.11.19-11.28.56:317][ 62]LogBlueprintUserMessages: [Level1_C_50] Hello
+[2018.11.19-11.28.56:481][ 72]LogBlueprintUserMessages: [Level1_C_50] Hello
+[2018.11.19-11.28.58:692][211]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Levels/Level1.Level1:PersistentLevel.Level1'
+[2018.11.19-11.28.58:693][211]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.19-11.28.58:743][211]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.19-11.28.58:744][211]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Levels/Level1.Level1:PersistentLevel.Level1'
+[2018.11.19-11.28.58:779][211]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.19-11.28.58:822][212]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2018.11.19-11.29.00:017][276]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.19-11.29.00:372][276]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Saved/Level10F5685EF40FEF18F56C958926D67E479.tmp' to '../../../../../Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Content/Levels/Level1.umap'
+[2018.11.19-11.29.00:395][276]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1_BuiltData" FILE="../../../../../Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Content/Levels/Level1_BuiltData.uasset" SILENT=true
+[2018.11.19-11.29.00:534][276]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Saved/Level1_BuiltData0C4B74A74EB8D25148780BAC42E4FF54.tmp' to '../../../../../Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Content/Levels/Level1_BuiltData.uasset'
+[2018.11.19-11.30.15:350][648]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Saved/Level1830E7230407365626DC45794A0B1179F.tmp' to '../../../../../Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Content/Levels/Level1.umap'
+[2018.11.19-11.30.15:370][648]LogFileHelpers: Saving map 'Level1' took 0.366
+[2018.11.19-11.30.33:335][982]BlueprintLog: New page: Compile Level1
+[2018.11.19-11.30.34:330][ 27]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Saved/Level1D4A35D754656C07F1BCF9FBD56AA79BE.tmp' to '../../../../../Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Content/Levels/Level1.umap'
+[2018.11.19-11.30.34:355][ 27]LogFileHelpers: Saving map 'Level1' took 0.408
+[2018.11.19-11.30.35:745][119]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.19-11.30.35:760][119]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Levels/Level1.Level1:PersistentLevel.Level1'
+[2018.11.19-11.30.35:760][119]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.19-11.30.35:760][119]PIE: New page: PIE session: Level1 (19 nov. 2018, 15:30:35)
+[2018.11.19-11.30.35:760][119]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2018.11.19-11.30.35:783][119]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023168s)
+[2018.11.19-11.30.35:784][119]LogAIModule: Creating AISystem for world Level1
+[2018.11.19-11.30.35:785][119]LogPlayLevel: PIE: World Init took: (0.001237s)
+[2018.11.19-11.30.35:785][119]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.024606s)
+[2018.11.19-11.30.35:824][119]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.19-11.30.35:844][119]LogInit: FAudioDevice initialized.
+[2018.11.19-11.30.35:887][119]LogLoad: Game class is 'GameModeBase'
+[2018.11.19-11.30.35:895][119]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.11.19-13.30.35
+[2018.11.19-11.30.35:897][119]LogWorld: Bringing up level for play took: 0.007328
+[2018.11.19-11.30.35:912][119]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Level1 0,386
+[2018.11.19-11.30.35:913][119]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Levels/Level1.Level1:PersistentLevel.Level1'
+[2018.11.19-11.30.36:976][193]LogBlueprintUserMessages: [Level1_C_54] 1
+[2018.11.19-11.30.37:244][211]LogBlueprintUserMessages: [Level1_C_54] 2
+[2018.11.19-11.30.37:475][227]LogBlueprintUserMessages: [Level1_C_54] 3
+[2018.11.19-11.30.37:702][242]LogBlueprintUserMessages: [Level1_C_54] 4
+[2018.11.19-11.30.37:934][258]LogBlueprintUserMessages: [Level1_C_54] 5
+[2018.11.19-11.30.39:651][371]LogBlueprintUserMessages: [Level1_C_54] 1
+[2018.11.19-11.30.39:855][385]LogBlueprintUserMessages: [Level1_C_54] 2
+[2018.11.19-11.30.40:055][398]LogBlueprintUserMessages: [Level1_C_54] 3
+[2018.11.19-11.30.40:248][411]LogBlueprintUserMessages: [Level1_C_54] 4
+[2018.11.19-11.30.40:419][422]LogBlueprintUserMessages: [Level1_C_54] 5
+[2018.11.19-11.30.41:479][492]LogBlueprintUserMessages: [Level1_C_54] 1
+[2018.11.19-11.30.41:697][506]LogBlueprintUserMessages: [Level1_C_54] 2
+[2018.11.19-11.30.41:871][518]LogBlueprintUserMessages: [Level1_C_54] 3
+[2018.11.19-11.30.42:059][530]LogBlueprintUserMessages: [Level1_C_54] 4
+[2018.11.19-11.30.43:516][627]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Levels/Level1.Level1:PersistentLevel.Level1'
+[2018.11.19-11.30.43:516][627]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.19-11.30.43:570][627]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.19-11.30.43:570][627]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Levels/Level1.Level1:PersistentLevel.Level1'
+[2018.11.19-11.30.43:608][627]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.19-11.30.43:655][628]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2018.11.19-11.30.44:511][674]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.19-11.30.44:910][674]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Saved/Level19A6276424770F4E878D27EA195612594.tmp' to '../../../../../Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Content/Levels/Level1.umap'
+[2018.11.19-11.30.44:935][674]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1_BuiltData" FILE="../../../../../Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Content/Levels/Level1_BuiltData.uasset" SILENT=true
+[2018.11.19-11.30.45:087][674]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Saved/Level1_BuiltData304257BA49976289CAF4D68BF23747BE.tmp' to '../../../../../Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Content/Levels/Level1_BuiltData.uasset'
+[2018.11.19-11.40.45:381][898]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Saved/Level1_Auto1251096D84E3FB32FF28DA58B8C571E40.tmp' to '../../../../../Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Saved/Autosaves/Game/Levels/Level1_Auto1.umap'
+[2018.11.19-11.40.45:384][898]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Level1' took 0.666
+[2018.11.19-11.40.45:384][898]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.666
+[2018.11.19-12.44.48:535][820]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2018.11.19-12.44.48:535][820]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2018.11.19-12.44.48:535][820]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2018.11.19-12.44.48:535][820]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2018.11.19-12.44.48:535][820]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2018.11.19-12.44.48:535][820]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2018.11.19-12.44.48:535][820]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2018.11.19-12.44.48:535][820]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2018.11.19-12.44.48:536][820]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2018.11.19-12.44.48:536][820]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2018.11.19-12.44.48:536][820]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2018.11.19-12.44.48:536][820]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2018.11.19-12.44.48:536][820]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2018.11.19-12.44.48:536][820]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2018.11.19-12.44.48:536][820]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2018.11.19-12.44.48:536][820]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2018.11.19-12.44.48:536][820]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2018.11.19-12.44.48:536][820]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2018.11.19-12.44.48:536][820]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2018.11.19-12.44.48:536][820]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2018.11.19-12.44.48:536][820]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2018.11.19-12.44.48:537][820]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2018.11.19-12.44.48:537][820]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2018.11.19-12.44.48:537][820]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2018.11.19-12.44.48:537][820]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2018.11.19-12.44.48:537][820]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2018.11.19-12.44.48:537][820]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2018.11.19-12.44.48:537][820]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2018.11.19-12.44.48:537][820]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2018.11.19-12.44.48:537][820]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2018.11.19-12.44.48:537][820]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2018.11.19-12.44.48:537][820]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2018.11.19-12.44.48:537][820]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2018.11.19-12.44.48:538][820]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2018.11.19-12.44.48:538][820]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2018.11.19-12.44.48:538][820]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2018.11.19-12.44.48:538][820]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2018.11.19-12.44.48:538][820]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2018.11.19-12.44.48:538][820]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2018.11.19-12.44.48:538][820]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2018.11.19-12.44.48:539][820]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2018.11.19-12.44.48:539][820]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2018.11.19-12.44.48:539][820]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2018.11.19-12.44.48:539][820]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2018.11.19-12.44.48:539][820]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2018.11.19-12.44.48:539][820]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2018.11.19-12.44.48:539][820]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2018.11.19-12.44.48:539][820]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2018.11.19-12.44.48:539][820]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2018.11.19-12.44.48:539][820]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2018.11.19-12.44.48:539][820]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2018.11.19-12.44.48:539][820]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2018.11.19-12.44.54:950][839]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (6.415 sec). This should never happen. Something is wrong with the timer delegate!
+[2018.11.19-13.12.15:442][489]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Saved/Level194237E884EBAC1B3482266AA25ED55B6.tmp' to '../../../../../Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Content/Levels/Level1.umap'
+[2018.11.19-13.12.15:508][489]LogFileHelpers: Saving map 'Level1' took 0.517
+[2018.11.19-13.12.15:912][513]BlueprintLog: New page: Compile Level1
+[2018.11.19-13.12.17:943][626]BlueprintLog: New page: Compile Level1
+[2018.11.19-13.12.18:896][654]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Saved/Level11FCBCC24452781D98CA112A3E3137C85.tmp' to '../../../../../Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Content/Levels/Level1.umap'
+[2018.11.19-13.12.18:916][654]LogFileHelpers: Saving map 'Level1' took 0.340
+[2018.11.19-13.24.02:869][987]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.11.19-13.24.18:452][303]MapCheck: Warning: Default__PlatformUpDown_C Static mesh actor Default__PlatformUpDown_C has NULL StaticMesh property 
+[2018.11.19-13.24.18:464][303]LogBlueprint: Error: [Compiler PlatformUpDown] Default__PlatformUpDown_C is not valid. See the MapCheck log messages for details.
+[2018.11.19-13.24.18:464][303]LogBlueprint: Warning: [Compiler PlatformUpDown] [9764,37] Compile of PlatformUpDown failed. 1 Fatal Issue(s) 0 Warning(s) [in 91 ms] (/Game/StarterContent/Props/PlatformUpDown.PlatformUpDown)
+[2018.11.19-13.24.18:546][303]LogMetaData: Removing '/Game/StarterContent/Props/PlatformUpDown.PlatformUpDown:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/StarterContent/Props/NewBlueprint.PackageMetaData'
+[2018.11.19-13.24.18:546][303]LogMetaData: Removing '/Game/StarterContent/Props/PlatformUpDown.SKEL_PlatformUpDown_C' ref from Metadata '/Game/StarterContent/Props/NewBlueprint.PackageMetaData'
+[2018.11.19-13.24.18:546][303]LogMetaData: Removing '/Game/StarterContent/Props/PlatformUpDown.PlatformUpDown_C' ref from Metadata '/Game/StarterContent/Props/NewBlueprint.PackageMetaData'
+[2018.11.19-13.24.18:546][303]LogMetaData: Removing '/Game/StarterContent/Props/PlatformUpDown.PlatformUpDown:EventGraph.K2Node_Event_0' ref from Metadata '/Game/StarterContent/Props/NewBlueprint.PackageMetaData'
+[2018.11.19-13.24.18:546][303]LogMetaData: Removing '/Game/StarterContent/Props/PlatformUpDown.PlatformUpDown:EventGraph.K2Node_Event_1' ref from Metadata '/Game/StarterContent/Props/NewBlueprint.PackageMetaData'
+[2018.11.19-13.24.18:546][303]LogMetaData: Removing '/Game/StarterContent/Props/PlatformUpDown.PlatformUpDown:EventGraph.K2Node_Event_2' ref from Metadata '/Game/StarterContent/Props/NewBlueprint.PackageMetaData'
+[2018.11.19-13.24.18:738][303]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Saved/PlatformUpDown8559E71B453241E5CA6CEABF626D5846.tmp' to '../../../../../Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Content/StarterContent/Props/PlatformUpDown.uasset'
+[2018.11.19-13.24.19:092][303]MapCheck: Warning: Default__PlatformUpDown_C Static mesh actor Default__PlatformUpDown_C has NULL StaticMesh property 
+[2018.11.19-13.24.19:103][303]DataValidation: Error: Default__PlatformUpDown_C is not valid. See the MapCheck log messages for details.
+[2018.11.19-13.24.19:104][303]DataValidation: Error: /Game/StarterContent/Props/PlatformUpDown contains invalid data.
+[2018.11.19-13.24.19:104][303]DataValidation: Error: Data validation FAILED. Files Checked: 1, Passed: 0, Failed: 1, Skipped: 0, Unable to validate: 0
+[2018.11.19-13.24.33:023][917]LogSlate: Window 'Message Log' being destroyed
+[2018.11.19-13.24.33:050][917]LogSlate: Window 'Message Log' being destroyed
+[2018.11.19-13.24.36:457][ 35]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/StarterContent/Props/PlatformUpDown.PlatformUpDown
+[2018.11.19-13.24.39:513][ 36]LogRenderer: Reallocating scene render targets to support 1144x712 Format 10 NumSamples 1 (Frame:1).
+[2018.11.19-13.24.54:829][197]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (51.542 sec). This should never happen. Something is wrong with the timer delegate!
+[2018.11.19-13.25.25:539][443]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Saved/PlatformUpDown7A1E5632409BFFB88C85DFBD1293778D.tmp' to '../../../../../Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Content/StarterContent/Props/PlatformUpDown.uasset'
+[2018.11.19-13.25.27:052][532]BlueprintLog: New page: Compile PlatformUpDown
+[2018.11.19-13.28.38:452][964]LogEditorTransaction: Undo New Value Entered
+[2018.11.19-13.28.38:543][966]LogEditorTransaction: Undo New Time Entered
+[2018.11.19-13.29.17:646][720]LogEditorTransaction: Undo Add Key(s)
+[2018.11.19-13.29.22:464][  3]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Saved/PlatformUpDown1FFE08924B573E70347E5583C6BE02AE.tmp' to '../../../../../Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Content/StarterContent/Props/PlatformUpDown.uasset'
+[2018.11.19-13.31.10:163][678]LogSlate: Window 'Message' being destroyed
+[2018.11.19-13.31.14:715][678]LogSlate: Window 'Create External Curve' being destroyed
+[2018.11.19-13.31.14:803][679]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2018.11.19-13.31.54:948][765]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (40.145 sec). This should never happen. Something is wrong with the timer delegate!
+[2018.11.19-13.33.35:847][637]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Saved/PlatformUpDown26EA71134C3AFBF1F8DB619A472DB6E8.tmp' to '../../../../../Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Content/StarterContent/Props/PlatformUpDown.uasset'
+[2018.11.19-13.35.48:538][390]BlueprintLog: New page: Compile PlatformUpDown
+[2018.11.19-13.35.51:389][539]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Saved/PlatformUpDown909FC8E9469805E3466224868145D1C8.tmp' to '../../../../../Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Content/StarterContent/Props/PlatformUpDown.uasset'
+[2018.11.19-13.35.52:762][621]BlueprintLog: New page: Compile PlatformUpDown
+[2018.11.19-13.37.27:999][145]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Level1' took 0.034
+[2018.11.19-13.37.28:274][145]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Props/PlatformUpDown] ([1] browsable assets)...
+[2018.11.19-13.37.28:297][145]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/StarterContent/Props/PlatformUpDown.PlatformUpDown]
+[2018.11.19-13.37.28:297][145]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Props/PlatformUpDown]
+[2018.11.19-13.37.28:358][145]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Saved/PlatformUpDown_Auto2C3C805ED4F888D15C7B55BB9B9452CBA.tmp' to '../../../../../Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Saved/Autosaves/Game/StarterContent/Props/PlatformUpDown_Auto2.uasset'
+[2018.11.19-13.37.28:359][145]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PlatformCurve] ([1] browsable assets)...
+[2018.11.19-13.37.28:359][145]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlatformCurve]
+[2018.11.19-13.37.28:363][145]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Saved/PlatformCurve_Auto2EAC32EF24877C109DCCAE49383DE44BB.tmp' to '../../../../../Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Saved/Autosaves/Game/PlatformCurve_Auto2.uasset'
+[2018.11.19-13.37.28:364][145]LogFileHelpers: Auto-saving content packages took 0.364
+[2018.11.19-13.47.28:547][836]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Level1' took 0.039
+[2018.11.19-13.47.28:550][836]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Props/PlatformUpDown] ([1] browsable assets)...
+[2018.11.19-13.47.28:571][836]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/StarterContent/Props/PlatformUpDown.PlatformUpDown]
+[2018.11.19-13.47.28:571][836]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Props/PlatformUpDown]
+[2018.11.19-13.47.28:935][836]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Saved/PlatformUpDown_Auto33566AC264FB8A03F203E4AA78CECC0DB.tmp' to '../../../../../Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Saved/Autosaves/Game/StarterContent/Props/PlatformUpDown_Auto3.uasset'
+[2018.11.19-13.47.28:936][836]LogFileHelpers: Auto-saving content packages took 0.387
+[2018.11.19-14.24.53:526][316]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2018.11.19-14.24.53:527][316]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2018.11.19-14.24.53:527][316]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2018.11.19-14.24.53:527][316]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2018.11.19-14.24.53:527][316]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2018.11.19-14.24.53:527][316]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2018.11.19-14.24.53:527][316]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2018.11.19-14.24.53:528][316]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2018.11.19-14.24.53:528][316]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2018.11.19-14.24.53:528][316]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2018.11.19-14.24.53:528][316]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2018.11.19-14.24.53:528][316]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2018.11.19-14.24.53:528][316]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2018.11.19-14.24.53:528][316]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2018.11.19-14.24.53:528][316]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2018.11.19-14.24.53:528][316]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2018.11.19-14.24.53:528][316]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2018.11.19-14.24.53:528][316]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2018.11.19-14.24.53:528][316]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2018.11.19-14.24.53:528][316]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2018.11.19-14.24.53:528][316]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2018.11.19-14.24.53:528][316]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2018.11.19-14.24.53:529][316]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2018.11.19-14.24.53:529][316]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2018.11.19-14.24.53:529][316]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2018.11.19-14.24.53:529][316]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2018.11.19-14.24.53:529][316]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2018.11.19-14.24.53:757][318]LogHttp: Warning: 000001F5258C4CC0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.11.19-14.24.53:758][318]LogHttp: Warning: 000001F5258C4CC0: libcurl info message cache 0 (Connection 69 seems to be dead!)
+[2018.11.19-14.24.53:758][318]LogHttp: Warning: 000001F5258C4CC0: libcurl info message cache 1 (Closing connection 69)
+[2018.11.19-14.24.53:758][318]LogHttp: Warning: 000001F5258C4CC0: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2018.11.19-14.24.53:758][318]LogHttp: Warning: 000001F5258C4CC0: libcurl info message cache 3 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.11.19-14.24.53:758][318]LogHttp: Warning: 000001F5258C4CC0: libcurl info message cache 4 (Closing connection 70)
+[2018.11.19-14.24.53:758][318]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7D0F6C35-4D5A-4289-E6EC-FCABCB9CE028%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.0-4541578%2B%2B%2BUE4%2BRelease-4.21&UserID=36a2010a420212a506d07d9b9d6b2e5d%7C843b03aff42d4d868ee45c9158a20d68%7C094cfee2-d7f7-436c-9fc0-16bfc8aaeafa&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2018.11.19-14.24.54:816][320]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.291 sec). This should never happen. Something is wrong with the timer delegate!
+[2018.11.19-14.25.03:683][346]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Level1' took 0.056
+[2018.11.19-14.25.03:689][346]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Props/PlatformUpDown] ([1] browsable assets)...
+[2018.11.19-14.25.03:833][346]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/StarterContent/Props/PlatformUpDown.PlatformUpDown]
+[2018.11.19-14.25.03:834][346]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Props/PlatformUpDown]
+[2018.11.19-14.25.03:866][346]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Saved/PlatformUpDown_Auto4104095384BEA697250ECF2A815D80155.tmp' to '../../../../../Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Saved/Autosaves/Game/StarterContent/Props/PlatformUpDown_Auto4.uasset'
+[2018.11.19-14.25.03:867][346]LogFileHelpers: Auto-saving content packages took 0.180
+[2018.11.19-14.27.26:175][802]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Saved/PlatformUpDown4FDF6B1A4409D86B929F54A1B19660D6.tmp' to '../../../../../Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Content/StarterContent/Props/PlatformUpDown.uasset'
+[2018.11.19-14.27.26:703][833]BlueprintLog: New page: Compile PlatformUpDown
+[2018.11.19-14.27.27:696][871]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Saved/PlatformUpDown339C683F4D464D8BA1FD2A943FB30201.tmp' to '../../../../../Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Content/StarterContent/Props/PlatformUpDown.uasset'
+[2018.11.19-14.27.47:282][ 36]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Saved/PlatformUpDownA737C6BD43EB490188BCFAAFCC651FC0.tmp' to '../../../../../Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Content/StarterContent/Props/PlatformUpDown.uasset'
+[2018.11.19-14.27.54:488][445]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Saved/Level16E78345C46FF2A38A2541D9C987793A5.tmp' to '../../../../../Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Content/Levels/Level1.umap'
+[2018.11.19-14.27.54:514][445]LogFileHelpers: Saving map 'Level1' took 0.383
+[2018.11.19-14.27.54:937][470]BlueprintLog: New page: Compile Level1
+[2018.11.19-14.27.55:740][485]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Saved/Level188D085F342298A77EF0B35B2E1E33D07.tmp' to '../../../../../Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Content/Levels/Level1.umap'
+[2018.11.19-14.27.55:764][485]LogFileHelpers: Saving map 'Level1' took 0.381
+[2018.11.19-14.28.16:858][463]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Saved/PlatformUpDown918AF2E6429AD13D2B2C2ABFD326F707.tmp' to '../../../../../Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Content/StarterContent/Props/PlatformUpDown.uasset'
+[2018.11.19-14.29.47:069][787]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.11.19-14.29.55:154][787]LogSlate: Window 'Create Blank Blueprint Class' being destroyed
+[2018.11.19-14.30.41:163][256]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.19-14.30.41:279][263]BlueprintLog: New page: Compile PlatformUpDown
+[2018.11.19-14.30.42:469][313]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Saved/PlatformUpDown14004A6C4BA9158317556F84FD5BD9D7.tmp' to '../../../../../Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Content/StarterContent/Props/PlatformUpDown.uasset'
+[2018.11.19-14.31.08:805][620]LogMetaData: Removing '/Game/Blueprints/PlatformUpDown.PlatformUpDown_C' ref from Metadata '/Game/StarterContent/Props/PlatformUpDown.PackageMetaData'
+[2018.11.19-14.31.08:805][620]LogMetaData: Removing '/Game/Blueprints/PlatformUpDown.SKEL_PlatformUpDown_C' ref from Metadata '/Game/StarterContent/Props/PlatformUpDown.PackageMetaData'
+[2018.11.19-14.31.08:805][620]LogMetaData: Removing '/Game/Blueprints/PlatformUpDown.PlatformUpDown:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/StarterContent/Props/PlatformUpDown.PackageMetaData'
+[2018.11.19-14.31.08:805][620]LogMetaData: Removing '/Game/Blueprints/PlatformUpDown.PlatformUpDown:EventGraph.K2Node_Event_0' ref from Metadata '/Game/StarterContent/Props/PlatformUpDown.PackageMetaData'
+[2018.11.19-14.31.08:805][620]LogMetaData: Removing '/Game/Blueprints/PlatformUpDown.PlatformUpDown:EventGraph.K2Node_Event_1' ref from Metadata '/Game/StarterContent/Props/PlatformUpDown.PackageMetaData'
+[2018.11.19-14.31.08:805][620]LogMetaData: Removing '/Game/Blueprints/PlatformUpDown.PlatformUpDown:EventGraph.K2Node_Event_2' ref from Metadata '/Game/StarterContent/Props/PlatformUpDown.PackageMetaData'
+[2018.11.19-14.31.08:805][620]LogMetaData: Removing '/Game/Blueprints/PlatformUpDown.PlatformUpDown_C:ReceiveBeginPlay' ref from Metadata '/Game/StarterContent/Props/PlatformUpDown.PackageMetaData'
+[2018.11.19-14.31.08:805][620]LogMetaData: Removing '/Game/Blueprints/PlatformUpDown.PlatformUpDown_C:PlatformUpDownTimeline' ref from Metadata '/Game/StarterContent/Props/PlatformUpDown.PackageMetaData'
+[2018.11.19-14.31.08:805][620]LogMetaData: Removing '/Game/Blueprints/PlatformUpDown.PlatformUpDown_C:InitialPlatformLocation' ref from Metadata '/Game/StarterContent/Props/PlatformUpDown.PackageMetaData'
+[2018.11.19-14.31.08:805][620]LogMetaData: Removing '/Game/Blueprints/PlatformUpDown.PlatformUpDown_C:StartWithUpwardsMovement' ref from Metadata '/Game/StarterContent/Props/PlatformUpDown.PackageMetaData'
+[2018.11.19-14.31.08:805][620]LogMetaData: Removing '/Game/Blueprints/PlatformUpDown.SKEL_PlatformUpDown_C:UserConstructionScript' ref from Metadata '/Game/StarterContent/Props/PlatformUpDown.PackageMetaData'
+[2018.11.19-14.31.08:805][620]LogMetaData: Removing '/Game/Blueprints/PlatformUpDown.SKEL_PlatformUpDown_C:PlatformUpDownTimeline' ref from Metadata '/Game/StarterContent/Props/PlatformUpDown.PackageMetaData'
+[2018.11.19-14.31.08:805][620]LogMetaData: Removing '/Game/Blueprints/PlatformUpDown.SKEL_PlatformUpDown_C:InitialPlatformLocation' ref from Metadata '/Game/StarterContent/Props/PlatformUpDown.PackageMetaData'
+[2018.11.19-14.31.08:805][620]LogMetaData: Removing '/Game/Blueprints/PlatformUpDown.SKEL_PlatformUpDown_C:StartWithUpwardsMovement' ref from Metadata '/Game/StarterContent/Props/PlatformUpDown.PackageMetaData'
+[2018.11.19-14.31.08:805][620]LogMetaData: Removing '/Game/Blueprints/PlatformUpDown.SKEL_PlatformUpDown_C:ReceiveTick' ref from Metadata '/Game/StarterContent/Props/PlatformUpDown.PackageMetaData'
+[2018.11.19-14.31.08:805][620]LogMetaData: Removing '/Game/Blueprints/PlatformUpDown.SKEL_PlatformUpDown_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/StarterContent/Props/PlatformUpDown.PackageMetaData'
+[2018.11.19-14.31.08:805][620]LogMetaData: Removing '/Game/Blueprints/PlatformUpDown.SKEL_PlatformUpDown_C:ReceiveBeginPlay' ref from Metadata '/Game/StarterContent/Props/PlatformUpDown.PackageMetaData'
+[2018.11.19-14.31.08:805][620]LogMetaData: Removing '/Game/Blueprints/PlatformUpDown.PlatformUpDown_C:UserConstructionScript' ref from Metadata '/Game/StarterContent/Props/PlatformUpDown.PackageMetaData'
+[2018.11.19-14.31.08:857][620]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PlatformUpDown" FILE="../../../../../Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Content/Blueprints/PlatformUpDown.uasset" SILENT=true
+[2018.11.19-14.31.08:887][620]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Saved/PlatformUpDownDA3A002B428972EAD8AC8EAEB1AE6294.tmp' to '../../../../../Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Content/Blueprints/PlatformUpDown.uasset'
+[2018.11.19-14.31.15:883][931]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PlatformUpDown" FILE="../../../../../Unreal Engine Projects/Obstacle-Runner-Unreal/ObstacleRunner/Content/Blueprints/PlatformUpDown.uasset" SILENT=true
+[2018.11.19-14.31.15:930][931]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2018.11.19-14.31.21:377][931]LogStats: FPlatformStackWalk::StackWalkAndDump -  5.440 s
+[2018.11.19-14.31.21:381][931]LogOutputDevice: Error: === Handled ensure: ===
+[2018.11.19-14.31.21:381][931]LogOutputDevice: Error: 
+[2018.11.19-14.31.21:381][931]LogOutputDevice: Error: Ensure condition failed: !SeenPaths.Contains(NewPath) [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\Misc\RedirectCollector.cpp] [Line: 219]
+[2018.11.19-14.31.21:381][931]LogOutputDevice: Error: Found circular redirect from /Game/Blueprints/PlatformUpDown.PlatformUpDown to /Game/Blueprints/PlatformUpDown.PlatformUpDown! Returning None instead
+[2018.11.19-14.31.21:381][931]LogOutputDevice: Error: Stack: 
+[2018.11.19-14.31.21:381][931]LogOutputDevice: Error: [Callstack] 0x00007fffb2a3cb14 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.11.19-14.31.21:381][931]LogOutputDevice: Error: [Callstack] 0x00007fffb2d7fc5f UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.11.19-14.31.21:381][931]LogOutputDevice: Error: [Callstack] 0x00007fffb2d8fc09 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.11.19-14.31.21:381][931]LogOutputDevice: Error: [Callstack] 0x00007fffb2a838a7 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.11.19-14.31.21:381][931]LogOutputDevice: Error: [Callstack] 0x00007fffb29f731f UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.11.19-14.31.21:381][931]LogOutputDevice: Error: [Callstack] 0x00007fffb2d8f893 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.11.19-14.31.21:382][931]LogOutputDevice: Error: [Callstack] 0x00007fffb2ba1811 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.11.19-14.31.21:382][931]LogOutputDevice: Error: [Callstack] 0x00007fffb2d26b11 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.11.19-14.31.21:382][931]LogOutputDevice: Error: [Callstack] 0x00007fffb2d26e67 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.11.19-14.31.21:382][931]LogOutputDevice: Error: [Callstack] 0x00007fffb2ba44ec UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.11.19-14.31.21:382][931]LogOutputDevice: Error: [Callstack] 0x00007fffb2ba14b2 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.11.19-14.31.21:382][931]LogOutputDevice: Error: [Callstack] 0x00007fffb2d26b11 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.11.19-14.31.21:382][931]LogOutputDevice: Error: [Callstack] 0x00007fffb2caa119 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.11.19-14.31.21:382][931]LogOutputDevice: Error: [Callstack] 0x00007fffb2d26e67 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.11.19-14.31.21:382][931]LogOutputDevice: Error: [Callstack] 0x00007fffb2ba44ec UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.11.19-14.31.21:382][931]LogOutputDevice: Error: [Callstack] 0x00007fffb2caa913 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.11.19-14.31.21:382][931]LogOutputDevice: Error: [Callstack] 0x00007fffb2ca862c UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.11.19-14.31.21:382][931]LogOutputDevice: Error: [Callstack] 0x00007fffb2ca8324 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.11.19-14.31.21:382][931]LogOutputDevice: Error: [Callstack] 0x00007fffa62375ea UE4Editor-Engine.dll!UnknownFunction []
+[2018.11.19-14.31.21:382][931]LogOutputDevice: Error: [Callstack] 0x00007fffa6236f32 UE4Editor-Engine.dll!UnknownFunction []
+[2018.11.19-14.31.21:382][931]LogOutputDevice: Error: [Callstack] 0x00007fffb2d02f8b UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.11.19-14.31.21:382][931]LogOutputDevice: Error: [Callstack] 0x00007fffb2d2aec7 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.11.19-14.31.21:382][931]LogOutputDevice: Error: [Callstack] 0x00007fffb2d0dfd5 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.11.19-14.31.21:382][931]LogOutputDevice: Error: [Callstack] 0x00007fffa4509206 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.11.19-14.31.21:382][931]LogOutputDevice: Error: [Callstack] 0x00007fffa4509c27 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.11.19-14.31.21:383][931]LogOutputDevice: Error: [Callstack] 0x00007fffa454def4 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.11.19-14.31.21:383][931]LogOutputDevice: Error: [Callstack] 0x00007fffa454a6e5 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.11.19-14.31.21:383][931]LogOutputDevice: Error: [Callstack] 0x00007fffa4e50a43 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.11.19-14.31.21:383][931]LogOutputDevice: Error: [Callstack] 0x00007fffa491d5e4 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.11.19-14.31.21:383][931]LogOutputDevice: Error: [Callstack] 0x00007fffa491bee1 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.11.19-14.31.21:383][931]LogOutputDevice: Error: [Callstack] 0x00007fffa4933738 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.11.19-14.31.21:383][931]LogOutputDevice: Error: [Callstack] 0x00007fff8953fa41 UE4Editor-AssetTools.dll!UnknownFunction []
+[2018.11.19-14.31.21:383][931]LogOutputDevice: Error: [Callstack] 0x00007fff89506655 UE4Editor-AssetTools.dll!UnknownFunction []
+[2018.11.19-14.31.21:383][931]LogOutputDevice: Error: [Callstack] 0x00007fff8954dd77 UE4Editor-AssetTools.dll!UnknownFunction []
+[2018.11.19-14.31.21:383][931]LogOutputDevice: Error: [Callstack] 0x00007fff88252c98 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.11.19-14.31.21:383][931]LogOutputDevice: Error: [Callstack] 0x00007fff883f53fc UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.11.19-14.31.21:383][931]LogOutputDevice: Error: [Callstack] 0x00007fff883f0641 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.11.19-14.31.21:383][931]LogOutputDevice: Error: [Callstack] 0x00007fff883f3a81 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.11.19-14.31.21:383][931]LogOutputDevice: Error: [Callstack] 0x00007fff8821b24c UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.11.19-14.31.21:383][931]LogOutputDevice: Error: [Callstack] 0x00007fff8821b486 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.11.19-14.31.21:383][931]LogOutputDevice: Error: [Callstack] 0x00007fffb0f97a89 UE4Editor-Slate.dll!UnknownFunction []
+[2018.11.19-14.31.21:383][931]LogOutputDevice: Error: [Callstack] 0x00007fffb0fa0090 UE4Editor-Slate.dll!UnknownFunction []
+[2018.11.19-14.31.21:383][931]LogOutputDevice: Error: [Callstack] 0x00007fffb0f72a0f UE4Editor-Slate.dll!UnknownFunction []
+[2018.11.19-14.31.21:383][931]LogOutputDevice: Error: [Callstack] 0x00007fffb105c7bb UE4Editor-Slate.dll!UnknownFunction []
+[2018.11.19-14.31.21:383][931]LogOutputDevice: Error: [Callstack] 0x00007fffb0fa1da5 UE4Editor-Slate.dll!UnknownFunction []
+[2018.11.19-14.31.21:383][931]LogOutputDevice: Error: [Callstack] 0x00007fffb0e48e25 UE4Editor-Slate.dll!UnknownFunction []
+[2018.11.19-14.31.21:383][931]LogOutputDevice: Error: [Callstack] 0x00007fffb0ee2678 UE4Editor-Slate.dll!UnknownFunction []
+[2018.11.19-14.31.21:383][931]LogOutputDevice: Error: [Callstack] 0x00007fffb0ec857a UE4Editor-Slate.dll!UnknownFunction []
+[2018.11.19-14.31.21:383][931]LogOutputDevice: Error: [Callstack] 0x00007fffb0ebb44c UE4Editor-Slate.dll!UnknownFunction []
+[2018.11.19-14.31.21:383][931]LogOutputDevice: Error: [Callstack] 0x00007fffd4c6de26 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.11.19-14.31.21:383][931]LogOutputDevice: Error: [Callstack] 0x00007fffd4c60de0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.11.19-14.31.21:383][931]LogOutputDevice: Error: [Callstack] 0x00007fffd4c701eb UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.11.19-14.31.21:383][931]LogOutputDevice: Error: [Callstack] 0x00007fffd4c5ca19 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.11.19-14.31.21:383][931]LogOutputDevice: Error: [Callstack] 0x00007ffff5336d41 USER32.dll!UnknownFunction []
+[2018.11.19-14.31.21:383][931]LogOutputDevice: Error: [Callstack] 0x00007ffff5336713 USER32.dll!UnknownFunction []
+[2018.11.19-14.31.21:383][931]LogOutputDevice: Error: [Callstack] 0x00007fffd4c71746 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.11.19-14.31.21:383][931]LogOutputDevice: Error: [Callstack] 0x00007ff6fe1b5546 UE4Editor.exe!UnknownFunction []
+[2018.11.19-14.31.21:383][931]LogOutputDevice: Error: [Callstack] 0x00007ff6fe1c596c UE4Editor.exe!UnknownFunction []
+[2018.11.19-14.31.21:383][931]LogOutputDevice: Error: [Callstack] 0x00007ff6fe1c59ea UE4Editor.exe!UnknownFunction []
+[2018.11.19-14.31.21:383][931]LogOutputDevice: Error: [Callstack] 0x00007ff6fe1d48da UE4Editor.exe!UnknownFunction []
+[2018.11.19-14.31.21:383][931]LogOutputDevice: Error: [Callstack] 0x00007ff6fe1d659a UE4Editor.exe!UnknownFunction []
+[2018.11.19-14.31.21:383][931]LogOutputDevice: Error: [Callstack] 0x00007ffff4713034 KERNEL32.DLL!UnknownFunction []
+[2018.11.19-14.31.21:383][931]LogOutputDevice: Error: [Callstack] 0x00007ffff56a1471 ntdll.dll!UnknownFunction []
+[2018.11.19-14.31.21:383][931]LogOutputDevice: Error: 
+[2018.11.19-14.31.21:393][931]LogStats:                SubmitErrorReport -  0.000 s
